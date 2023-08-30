@@ -1,0 +1,30 @@
+.grassetto{
+    font-style: bold;
+}
+.corsivo{
+    font-style: italic;
+}
+.temperato_umido{
+    background-color: rgb(201, 201, 234);
+    border-color: black;
+    border-width: medium;
+}
+.mediterraneo{
+    background-color: #e0f78d;
+    border-color: black;
+    border-width: medium;
+}
+.alpino{
+    background-color: #feaac0;
+    border-color: black;
+    border-width: medium;
+}
+.card{
+    border-radius: 0%;
+    border-color: black;
+    margin: 20px;
+    margin-bottom: 0px;
+}
+.ravvicinato{
+    line-height:3px
+}

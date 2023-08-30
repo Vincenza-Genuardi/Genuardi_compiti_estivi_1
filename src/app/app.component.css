@@ -1,0 +1,14 @@
+div{
+    background-color: rgb(246, 242, 242);
+}
+
+button{
+    margin: 20px;
+    background-color: rgb(201, 198, 198);
+}
+.card{
+    margin-left: 20px;
+    border-radius: 0%;
+    border-color: black;
+    
+}
