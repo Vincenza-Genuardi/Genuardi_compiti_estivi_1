@@ -41,7 +41,7 @@ export class AppComponent {
   ]
   }
   ordineAltitudineD(): boolean{
-    this.listaLuoghi = this.listaLuoghi.sort((a: Luogo, b: Luogo) => a.altitudine - b.altitudine);
+    this.listaLuoghi = this.listaLuoghi.sort((a: Luogo, b: Luogo) => b.altitudine - a.altitudine);
     return false;
   }
   ordineAlfabetico(): boolean{
